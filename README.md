@@ -24,7 +24,7 @@ Clone o projeto
 Instale as dependências
 
 ```bash
-  yarn add . 
+  yarn install  
 ```
 
 Inicie o servidor
