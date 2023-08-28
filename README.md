@@ -9,7 +9,7 @@
  
 ## 🚀 Sobre a API 
 
-* Esta API foi desenvolvida para um banco digital com criar usuários, criar contas e com seguranças e coptografia e token, e realizar diversas funcionalidades como depositar valores e efetuar transações. 
+* Esta API foi desenvolvida para um banco digital, e criar contas e com seguranças e com  coptografia e sistema com token, e realizar diversas funcionalidades como depositar valores e efetuar transações ect... 
 
 * API é desenvolvida na linguagem de javascript e tem a estrutura de base MVC, essa API tem o paradigma de programação orientada a funcionalidade, com o banco de dados MongoDB Atlas Cloud,  foi usada a ORM Mongoose. 
 
